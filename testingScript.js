@@ -1,4 +1,1 @@
-console.log("injected");
-function test() {
-  console.log("inject");
-}
+console.log("injected2");
